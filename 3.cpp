@@ -1,7 +1,7 @@
+#include <algorithm>
 #include <iostream>
 #include <vector>
 #include <random>
-#include <algorithm>
 using namespace std;
 vector<pair<int, int>> edges;
 int n, m, k;
